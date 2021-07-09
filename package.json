@@ -1,7 +1,9 @@
 {
   "dependencies": {
+    "audit": "0.0.6",
     "autoprefixer": "^9.8.0",
+    "cors": "^2.8.5",
+    "fix": "0.0.6",
     "postcss-cli": "^5.0.1"
-
   }
 }

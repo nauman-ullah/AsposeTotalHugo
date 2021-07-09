@@ -46,12 +46,12 @@ You need to use the following comand in the main Hugo directory:
 
 1. **topbar_search_active** — Shows/Hide topbar search field.
 
-
+ 
 ## Page Variables
 1. **showChildPages: true** - Shows the list of child pages in the bottom of the current page.
 
 
-## Shortcodes — use in **.md** files
+## Shortcodes — use in **.md** files  
 1. ``` {< emoticons/tick >}} ``` — to insert emoticon-tick.
 2. ``` {{< emoticons/cross >}} ``` — to insert emoticon-cross.
 3. 
